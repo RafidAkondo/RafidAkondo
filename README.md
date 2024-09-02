@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasin Shahad Rafid</h1>
 <h3 align="center">Hey welcome to my world area71 Development</h3>
-<img aling="top right" alt="cding" width"400" src="![image](https://github.com/user-attachments/assets/b4cbf40c-4aaf-4f2b-a0dc-b81ca9db4d6d)
-">
+<img align="right" alt="cding" width"400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafidakondo&label=Profile%20views&color=0e75b6&style=flat" alt="rafidakondo" /> </p>
 
@@ -27,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafidakondo&show_icons=true&locale=en" alt="rafidakondo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafidakondo&" alt="rafidakondo" /></p>
-
