@@ -2,7 +2,7 @@
 <h3 align="center">Hey welcome to my world area71 Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafidakondo&label=Profile%20views&color=0e75b6&style=flat" alt="rafidakondo" /> </p>
-<img align="right" alt="cding" width"100" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
 
 - 📝 I regularly write articles on [https://digitalworldhub.com/tech/slow-computer-do-the-computer-faster/](https://digitalworldhub.com/tech/slow-computer-do-the-computer-faster/)
 
