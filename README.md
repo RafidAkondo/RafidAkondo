@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasin Shahad Rafid</h1>
 <h3 align="center">Hey welcome to my world area71 Development</h3>
-<img aling="top right" alt="cding" width"400" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+<img aling="top right" alt="cding" width"400" src="![image](https://github.com/user-attachments/assets/b4cbf40c-4aaf-4f2b-a0dc-b81ca9db4d6d)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafidakondo&label=Profile%20views&color=0e75b6&style=flat" alt="rafidakondo" /> </p>
 
